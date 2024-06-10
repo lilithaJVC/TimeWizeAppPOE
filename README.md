@@ -42,7 +42,9 @@
 <li>when the category is saved, the dashboard screen will open again allowing users to click on the timesheet button</li>
 <h1>timesheet</h1>
 
-![timesheet](https://github.com/lilithaJVC/TimeWizeAppPOE/assets/104263642/c62e5f99-7521-4a97-92f7-e18d6970e0b6)
+
+![Timesheet55](https://github.com/lilithaJVC/TimeWizeAppPOE/assets/104263642/b72b46b5-d32e-458b-b20a-66f6f17cf8a6)
+
 
 <li>when the timesheet button is clicked, the timesheet page will open that will prompt the user to select the category that the timesheet will belong to,start time as well as end time, description of the task. they also have the ability to upload the picture of the timesheets. the user can save the timesheet  </li>
 <li>all this information will be saved to firestore </li>
