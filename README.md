@@ -26,7 +26,21 @@
 <li>when the user clicks on the categiries button they will be redirected to the page where they will provide with the catrgory name then they will submit the category name by clicking the sace category button  </li>
 <li>when the category is saved, the dashboard screen will open again allowing users to click on the timesheet button</li>
 <h1>timesheet</h1>
-<li>when the timesheet button is clicked, the timesheet page will open that will prompt the user to select the category that the timesheet will belong to, the date, start time as well as end time, description of the task. then the user can save the timesheet  </li>
+<li>when the timesheet button is clicked, the timesheet page will open that will prompt the user to select the category that the timesheet will belong to,start time as well as end time, description of the task. they also have the ability to upload the picture of the timesheets. the user can save the timesheet  </li>
+<li>all this information will be saved to firestore </li>
+
+<li>in the dashboard there are three dots at the top right conner of the screen</li>
+<li>the user needs to click there to see the menu</li>
+<li>thw user will then click on the hours activity</li>
+
+<h1>capturing hours </h1>
+<li>in the hours activity, the user will be prompt to enter the date, select the category that the hours will belong to</li>
+<li>they will be prompt for minimum daily goals as well as maximum daily goals</li>
+<li>when done providing with the information, they will click on the show hours button</li>
+<li>the hours spent will be displayed</li>
+
+<li>in the same activity there is a button for a graph "show graph", when that button is clicked , there graph showing the minimum, maximum daily goals and the total hours spent will be shown to show the progress </li>
+
 
                                                                                                          
                                                                                                          
