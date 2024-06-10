@@ -17,5 +17,19 @@
 <li>the user needs to provide with their email and password, they also need to re-enter their password for security purposes</li>
 <li>then click on the sign up button </li>
 <li>the user's credentials are saved in the online database called firebase firestore</li>
-<li>after the user is registered they can now log into the application using their registered details  </li>
+<li>after the user is registered they can now log into the application using their registered details  </li
+<h1>Dashboard</h1>
+
+<li>after the log in process, the screen will land to the dashboard</li>
+<li>in the dash board we have a a button for adding categories and a button for adding timesheets </li>
+<h1>categories</h1>
+<li>when the user clicks on the categiries button they will be redirected to the page where they will provide with the catrgory name then they will submit the category name by clicking the sace category button  </li>
+<li>when the category is saved, the dashboard screen will open again allowing users to click on the timesheet button</li>
+<h1>timesheet</h1>
+<li>when the timesheet button is clicked, the timesheet page will open that will prompt the user to select the category that the timesheet will belong to, the date, start time as well as end time, description of the task. then the user can save the timesheet  </li>
+
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
 
