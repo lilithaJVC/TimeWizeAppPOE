@@ -5,6 +5,10 @@
 <li>Open your Android Studio then go to the File > New > Project from Version Control </li></li>
 <li>Paste the link then click on the "Clone " button </li>
 
-<h1>running the app </h1>
-<li>run the app web app on visual studio, the home page  has 3 buttons at the top</li></li>
-<li>these buttons are for the farmer to register, login then the employees's login  </li></li>
+<h1>comiling the application </h1>
+
+<li>the application runs on android studio</li>
+<li>when the application launches, i lands  in the registration page </li>
+<li>the user needs to register in oder to acess the features of the application</li>
+<li>the user needs to provide with their email and password, they also need to re-enter their password for security purposes</li>
+
