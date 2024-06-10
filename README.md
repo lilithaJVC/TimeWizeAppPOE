@@ -41,6 +41,14 @@
 
 <li>in the same activity there is a button for a graph "show graph", when that button is clicked , there graph showing the minimum, maximum daily goals and the total hours spent will be shown to show the progress </li>
 
+<h1>additional featuers </h1>
+<h1>in the menu there is a button for a promodor timer </h1>
+<li>in the promodoro timer page, the user needs to provide with the time that they want to work for as well as the break time they would love to have then click on the start button </li>
+<li>when the timer reaches 00:00:00 the break time  will automatically begin </li>
+
+
+
+
 
                                                                                                          
                                                                                                          
