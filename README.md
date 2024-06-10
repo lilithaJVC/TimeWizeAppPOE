@@ -43,6 +43,9 @@
 
 <h1>additional featuers </h1>
 <h1>in the menu there is a button for a promodor timer </h1>
+
+![timer](https://github.com/lilithaJVC/TimeWizeAppPOE/assets/104263642/77aba44d-38ce-4aae-b713-65a0f73be625)
+
 <li>in the promodoro timer page, the user needs to provide with the time that they want to work for as well as the break time they would love to have then click on the start button </li>
 <li>when the timer reaches 00:00:00 the break time  will automatically begin </li>
 
