@@ -23,8 +23,12 @@
 ![loginPg](https://github.com/lilithaJVC/TimeWizeAppPOE/assets/104263642/baab4ec7-6ffc-4411-bc76-4aafad693b11)
 
 
-<li>after the user is registered they can now log into the application using their email as well as password   </li
-<h1>Dashboard</h1>
+<li>after the user is registered they can now log into the application using their email as well as password   </li>
+<h1>Dashboard</h1
+
+![dashloard](https://github.com/lilithaJVC/TimeWizeAppPOE/assets/104263642/68caab07-7bad-46d9-aab4-fefca9922a9b)
+
+
 
 <li>after the log in process, the screen will land to the dashboard</li>
 <li>in the dash board we have a a button for adding categories and a button for adding timesheets </li>
