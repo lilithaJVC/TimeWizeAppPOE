@@ -75,6 +75,12 @@
 <li>in the promodoro timer page, the user needs to provide with the time that they want to work for as well as the break time they would love to have then click on the start button </li>
 <li>when the timer reaches 00:00:00 the break time  will automatically begin </li>
 
+<h1>Rewards</h1>
+
+![rewards](https://github.com/lilithaJVC/TimeWizeAppPOE/assets/104263642/4c1a6314-175a-4715-a9ef-3fba516ddf35)
+
+
+
 
 
 
