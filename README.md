@@ -33,7 +33,12 @@
 <li>after the log in process, the screen will land to the dashboard</li>
 <li>in the dash board we have a a button for adding categories and a button for adding timesheets </li>
 <h1>categories</h1>
-<li>when the user clicks on the categiries button they will be redirected to the page where they will provide with the catrgory name then they will submit the category name by clicking the sace category button  </li>
+
+![category2](https://github.com/lilithaJVC/TimeWizeAppPOE/assets/104263642/67594c3d-9070-4620-8854-ba8cae666bc5)
+
+
+
+<li>when the user clicks on the categiries button they will be redirected to the page where they will provide with the catrgory name then they will submit the category name by clicking the "save a category"s button  </li>
 <li>when the category is saved, the dashboard screen will open again allowing users to click on the timesheet button</li>
 <h1>timesheet</h1>
 
