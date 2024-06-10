@@ -45,6 +45,10 @@
 <li>in the menu, there is a button to show list of timesheets </li>
 <li>when that button is clicked, the screen for timesheets will show, the user needs to provide wit hthe start date and the end date of the timesheets they want to dislay, select the category that the timesheet belongs to , then click on the view timesheet button, when that button is clicked, the list of timesheets will be shown along with the picture associated  with </li>
 
+![list](https://github.com/lilithaJVC/TimeWizeAppPOE/assets/104263642/e334c970-80cb-478c-8c46-627777dbccfe)
+
+
+
 <h1>additional featuers </h1>
 <h1>in the menu there is a button for a promodor timer </h1>
 
