@@ -49,7 +49,7 @@
 
 <li>in the dashboard there are three dots at the top right conner of the screen</li>
 <li>the user needs to click there to see the menu</li>
-<li>thw user will then click on the hours activity</li>
+<li>the user will then click on the hours activity</li>
 
 <h1>capturing hours </h1>
 <li>in the hours activity, the user will be prompt to enter the date, select the category that the hours will belong to</li>
@@ -58,6 +58,11 @@
 <li>the hours spent will be displayed</li>
 
 <li>in the same activity there is a button for a graph "show graph", when that button is clicked , there graph showing the minimum, maximum daily goals and the total hours spent will be shown to show the progress </li>
+<h1>graph</h1>
+
+![graph](https://github.com/lilithaJVC/TimeWizeAppPOE/assets/104263642/ffc591b6-a80b-4848-be71-f96e0828e1b7)
+
+
 
 <h1>timesheet list </h1>
 <li>in the menu, there is a button to show list of timesheets </li>
