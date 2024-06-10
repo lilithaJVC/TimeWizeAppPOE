@@ -19,7 +19,11 @@
 <li>the user needs to provide with their email and password, they also need to re-enter their password for security purposes</li>
 <li>then click on the sign up button </li>
 <li>the user's credentials are saved in the online database called firebase firestore</li>
-<li>after the user is registered they can now log into the application using their registered details  </li
+
+![loginPg](https://github.com/lilithaJVC/TimeWizeAppPOE/assets/104263642/baab4ec7-6ffc-4411-bc76-4aafad693b11)
+
+
+<li>after the user is registered they can now log into the application using their email as well as password   </li
 <h1>Dashboard</h1>
 
 <li>after the log in process, the screen will land to the dashboard</li>
