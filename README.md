@@ -10,7 +10,9 @@
 <li>the application runs on android studio</li>
 <li>when the application launches, it lands  on the registration page </li>
 
-![WhatsApp Image 2024-06-10 at 12 02 41](https://github.com/lilithaJVC/TimeWizeAppPOE/assets/104263642/23053f83-56fa-4d1d-a30a-0e012f62ad16)
+![registrationPg](https://github.com/lilithaJVC/TimeWizeAppPOE/assets/104263642/e0e7a546-d1f9-4001-a183-29d772ad3c7f)
+
+
 
 
 <li>the user needs to register in order to acess the features of the application</li>
