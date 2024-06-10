@@ -59,8 +59,9 @@
 
 
 
-<li>in the hours activity, the user will be prompt to enter the date, select the category that the hours will belong to</li>
+<li>in the hours activity, the user will be prompt to select the date, select the category that the hours will belong to</li>
 <li>they will be prompt for minimum daily goals as well as maximum daily goals</li>
+<li>they will prompt for the start date as well as the end date</li>
 <li>when done providing with the information, they will click on the show hours button</li>
 <li>the hours spent will be displayed</li>
 
