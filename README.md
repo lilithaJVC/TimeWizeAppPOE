@@ -15,5 +15,7 @@
 
 <li>the user needs to register in order to acess the features of the application</li>
 <li>the user needs to provide with their email and password, they also need to re-enter their password for security purposes</li>
-<li>then click on the register button </li>
+<li>then click on the sign up button </li>
+<li>the user's credentials are saved in the online database called firebase firestore</li>
+<li>after the user is registered they can now log into the application using their registered details  </li>
 
