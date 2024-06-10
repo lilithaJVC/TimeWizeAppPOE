@@ -73,7 +73,7 @@
 
 
 <h1>additional featuers </h1>
-<h1>in the menu there is a button for a promodor timer </h1>
+<h1>Promodoro Timer </h1>
 
 ![timer](https://github.com/lilithaJVC/TimeWizeAppPOE/assets/104263642/77aba44d-38ce-4aae-b713-65a0f73be625)
 
