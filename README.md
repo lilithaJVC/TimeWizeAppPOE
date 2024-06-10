@@ -54,6 +54,11 @@
 <li>the user will then click on the hours activity</li>
 
 <h1>capturing hours </h1>
+
+![Hours](https://github.com/lilithaJVC/TimeWizeAppPOE/assets/104263642/03f8ad0f-353d-4851-a90e-ad72dfd83227)
+
+
+
 <li>in the hours activity, the user will be prompt to enter the date, select the category that the hours will belong to</li>
 <li>they will be prompt for minimum daily goals as well as maximum daily goals</li>
 <li>when done providing with the information, they will click on the show hours button</li>
